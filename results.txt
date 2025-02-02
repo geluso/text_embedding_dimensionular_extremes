@@ -1,0 +1,36 @@
+0s zygosporic
+1s unhewn
+-1s neuroendocrine
+
+0000 -1 geostrategic zygosporic 1
+0001 -1 zygosporic zygosporic 1
+0002 -1 zygosporic metaphorical 1
+0003 -1 mesonic zygosporic 1
+0004 -1 zygosporic zygosporic 1
+0005 -1 zygosporic zygosporic 1
+0006 -1 iontophoretic zygosporic 1
+0007 -1 zygosporic zygosporic 1
+0008 -1 zygosporic zygosporic 1
+0009 -1 zygosporic zygosporic 1
+0010 -1 zygosporic zygosporic 1
+0011 -1 zygosporic zygosporic 1
+0012 -1 zygosporic zygosporic 1
+0013 -1 zygosporic zygosporic 1
+0014 -1 zygosporic zygosporic 1
+0015 -1 zygosporic zygosporic 1
+0016 -1 zygosporic zygosporic 1
+0017 -1 zygosporic zygosporic 1
+0018 -1 zygosporic zygosporic 1
+0019 -1 zygosporic zygosporic 1
+0020 -1 zygosporic zygosporic 1
+0021 -1 zygosporic zygosporic 1
+0022 -1 zygosporic zygosporic 1
+0023 -1 zygosporic zygosporic 1
+0024 -1 zygosporic zygosporic 1
+0025 -1 zygosporic zygosporic 1
+...
+4091 -1 zygosporic zygosporic 1
+4092 -1 zygosporic zygosporic 1
+4093 -1 zygosporic zygosporic 1
+4094 -1 zygosporic zygosporic 1
+4095 -1 zygosporic zygosporic 1
