@@ -1,10 +1,6 @@
-import sys
 import numpy as np
 
-from uuid import uuid4
 from langchain_ollama import OllamaEmbeddings
-from langchain_core.documents import Document
-
 embeddings = OllamaEmbeddings(model="llama3")
 
 from langchain_core.vectorstores import InMemoryVectorStore
