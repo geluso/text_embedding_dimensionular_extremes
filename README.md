@@ -37,25 +37,31 @@ The results look like this:
 1s unhewn
 -1s neuroendocrine
 
-0 -1.0000001192092896 cursed multilevelled 1.0000001192092896
-1 -0.9992036819458008 informatory poral 0.9949198961257935
-2 -0.9383177161216736 nodular metaphorical 0.9901447296142578
-3 -0.9304590225219727 mesonic gradual 0.8135342001914978
-4 -0.6609352827072144 cloddiest falculate 0.9781904220581055
-5 -0.5535609722137451 regauged lifelong 0.8517701625823975
-6 -0.9287737011909485 iontophoretic interallelic 0.5348101854324341
-7 -0.67302405834198 basipetal fulvid 0.6279732584953308
+0 -1.0000001192092896 cursed,adaptational,alleviative voluminal,warrantable,multilevelled 1.0000001192092896
+1 -0.9992036819458008 informatory,jotty,emmetropic panpsychistic,ethylenic,poral 0.9949198961257935
+2 -0.9383177161216736 nodular,multilateral,hyperacute wateriest,footweariest,metaphorical 0.9901447296142578
+3 -0.9304590225219727 mesonic,vernal,venereous roguier,undifferenced,gradual 0.8135342001914978
+4 -0.6609352827072144 cloddiest,haulmiest,gashest discless,triradial,falculate 0.9781904220581055
+5 -0.5535609722137451 regauged,slaty,stenosing tricostate,hailier,lifelong 0.8517701625823975
+6 -0.9287737011909485 iontophoretic,apiezon,unvarying toward,miserable,interallelic 0.5348101854324341
+7 -0.67302405834198 basipetal,ohmic,interatomic authoritative,immortal,fulvid 0.6279732584953308
+8 -0.7235048413276672 universal,platitudinous,interpleural hyper,cullionly,ultrawide 0.5014780163764954
+9 -0.4819996654987335 curvated,strobilar,hyper exergonic,ornery,socialistic 0.5964352488517761
+10 -0.5687512755393982 prototherian,calvarian,vulvovaginal fatal,nonetheless,squalider 0.8260089159011841
 ...
-4086 -0.03673190996050835 mycorhizal nonfarm 0.046019382774829865
-4087 -0.026884328573942184 baltic prosecutorial 0.02988828346133232
-4088 -0.04415430501103401 antiherpes palmar 0.029156044125556946
-4089 -0.023537013679742813 peristaltic unamassed 0.04992534592747688
-4090 -0.03186899423599243 reciprocal chromonemal 0.03293108567595482
-4091 -0.03652277588844299 insecurest windfallen 0.03749122470617294
-4092 -0.029390985146164894 titlike fibrocystic 0.035720836371183395
-4093 -0.041142262518405914 impossible candidal 0.035607896745204926
-4094 -0.03211917728185654 rectal inaner 0.034314803779125214
-4095 -0.029497841373085976 formal precancer 0.039222415536642075
+4084 -0.03722059726715088 curt,tricities,horrific antitakeover,hashier,etiological 0.025433650240302086
+4085 -0.04244628921151161 mopy,kuchcha,privater subbasal,monocular,nucleolar 0.031069757416844368
+4086 -0.03673190996050835 mycorhizal,biodestructible,organotin repudiative,unrebuked,nonfarm 0.046019382774829865
+4087 -0.026884328573942184 baltic,flannelliest,hydatidiform dricksie,intrafallopian,prosecutorial 0.02988828346133232
+4088 -0.04415430501103401 antiherpes,forensic,silicic unappealable,undular,palmar 0.029156044125556946
+4089 -0.023537013679742813 peristaltic,hydatidiform,photoconductive deific,asteriskless,unamassed 0.04992534592747688
+4090 -0.03186899423599243 reciprocal,nondestructive,luxurious curt,interphalangeal,chromonemal 0.03293108567595482
+4091 -0.03652277588844299 insecurest,pectinate,roupet antiacne,vivific,windfallen 0.03749122470617294
+4092 -0.029390985146164894 titlike,edulcorant,troutlike seborrheic,hemiopic,fibrocystic 0.035720836371183395
+4093 -0.041142262518405914 impossible,roundarch,weeklong boraginaceous,transgenic,candidal 0.035607896745204926
+4094 -0.03211917728185654 rectal,pesticidal,tetrastichal dielectric,bleakest,inaner 0.034314803779125214
+4095 -0.029497841373085976 formal,romancical,libidinal nosological,ascitical,precancer 0.039222415536642075
+
 ```
 
 ## What are Text Embeddings?
